@@ -6,5 +6,6 @@ export class Course {
   code:string;
   duration:number;
   rating:number;
-  realeseDate:string;
+  releaseDate:string;
+  description:string;
 }
